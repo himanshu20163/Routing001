@@ -1,0 +1,22 @@
+.main ul{
+    list-style: none;
+    display: flex;
+    
+}
+.main ul li{
+    margin: 20px 60px;
+    text-decoration: none;
+}
+.buttonnavbar{
+    margin: 10px 40px;
+    height: 35px;
+    width: 150px;
+    border-radius: 20px;
+    background-color: #596AFF;
+    color: white;
+    border: none;
+}
+.picturetopnavbar{
+    width: 200px;
+    height: 80px;
+}
