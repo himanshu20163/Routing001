@@ -3,13 +3,13 @@ import Choosecard from "./Choosecard";
 import "./home.css";
 const subject = [
   {
-    imago: "./images/first.svg",
+    imago: "Images/first.svg",
     heado: "Clean Handover",
     paragraph:
       "A project can be started by any MEP business in Dubai, but only a select handful can finish them on schedule. Urban Science gives you the opportunity to speak with past clients before your project even begins. In order for you to receive full feedback on URBAN SCIENCE. Our clean and on-time handover makes us among the best facilities management companies in Dubai.",
   },
   {
-    imago: "./images/qualified.svg",
+    imago: "Images/qualified.svg",
     heado: "Qualified and Certified",
     paragraph:
       "Urban Science is one of the leading companies in Dubai with a mission to provide customer satisfaction at every level. We provide effective solutions for all your MEP and facility management needs with a commitment to quality, environmental sustainability, and people-centered development. Urban Science is among the few companies in Dubai to be certified and approved by Dubai Municipality. Our professional and certified approach makes us among the best facilities management companies in Dubai",
