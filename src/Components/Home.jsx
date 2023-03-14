@@ -15,37 +15,37 @@ const subject = [
       "Urban Science is one of the leading companies in Dubai with a mission to provide customer satisfaction at every level. We provide effective solutions for all your MEP and facility management needs with a commitment to quality, environmental sustainability, and people-centered development. Urban Science is among the few companies in Dubai to be certified and approved by Dubai Municipality. Our professional and certified approach makes us among the best facilities management companies in Dubai",
   },
   {
-    imago: "./images/experience.svg",
+    imago: "Images/experience.svg",
     heado: "Experienced team",
     paragraph:
       "Urban Science is the best MEP and facility management company that provides comprehensive and reliable services to meet all your needs. We've been in Dubai for over 10 years, and have helped more than 200 companies around the city with their facilities management needs. We are a well-established company with years of experience in the field. Our workforce of over 200 employees is backed by advanced technology and the latest tools to provide quality services.",
   },
   {
-    imago: "./images/commonimg.png",
+    imago: "Images/commonimg.png",
     heado: "Facility management",
     paragraph:
       "We comply with the highest standards of professionalism and have one of the lowest employee turnover rates in the industry. Our urban science experts who are reliable and on time have a combined experience of over 18+ years. Financially, we offer the best rates in the industry with no hidden fees or expensive contracts. If you want to save money",
   },
   {
-    imago: "./images/commonimg.png",
+    imago: "Images/commonimg.png",
     heado: "MEP works",
     paragraph:
       "We comply with the highest standards of professionalism and have one of the lowest employee turnover rates in the industry. Our urban science experts who are reliable and on time have a combined experience of over 18+ years. Financially, we offer the best rates in the industry with no hidden fees or expensive contracts. If you want to save money",
   },
   {
-    imago: "./images/commonimg.png",
+    imago: "Images/commonimg.png",
     heado: "Air conditioning services",
     paragraph:
       "We comply with the highest standards of professionalism and have one of the lowest employee turnover rates in the industry. Our urban science experts who are reliable and on time have a combined experience of over 18+ years. Financially, we offer the best rates in the industry with no hidden fees or expensive contracts. If you want to save money",
   },
   {
-    imago: "./images/commonimg.png",
+    imago: "Images/commonimg.png",
     heado: "Chilled Water System",
     paragraph:
       "We comply with the highest standards of professionalism and have one of the lowest employee turnover rates in the industry. Our urban science experts who are reliable and on time have a combined experience of over 18+ years. Financially, we offer the best rates in the industry with no hidden fees or expensive contracts. If you want to save money ",
   },
   {
-    imago: "./images/commonimg.png",
+    imago: "Images/commonimg.png",
     heado: "Electric Works",
     paragraph:
       "We comply with the highest standards of professionalism and have one of the lowest employee turnover rates in the industry. Our urban science experts who are reliable and on time have a combined experience of over 18+ years. Financially, we offer the best rates in the industry with no hidden fees or expensive contracts. If you want to save money.",
@@ -68,7 +68,7 @@ const Home = () => {
           </div>
         </div>
         <div className="topbannerright">
-          <img src="./images/bannerright.png" alt="" />
+          <img src="Images/bannerright.png" alt="" />
         </div>
       </div>
       <div className="chooseus" style={{ display: "flex73" }}>
@@ -127,7 +127,7 @@ const Home = () => {
         <h3>"A satisfied customer is the best business strategy off all"</h3>
         <div className="ourteamparts" style={{display:"flex"}}>
             <div className="leftteam">
-                <img style={{width:"300px",height:"350px",borderRadius:"40px"}} src="./images/ourteamimages.jpg" alt="" />
+                <img style={{width:"300px",height:"350px",borderRadius:"40px"}} src="Images/ourteamimages.jpg" alt="" />
             </div>
             <div className="rightteam">
                 <p>After spending a huge time in facility management and MEP works. And after failing several times we have come to know that a satisfied customer is what makes you the best facility management company in Dubai. Our team is a blend of young and experience, and having an experienced core team helps us work through challenging problems while the youth ideas help us lay the groundwork for the future. Having this great vision for preparing for the better tomorrow makes us the best MEP companies in Dubai.</p>
