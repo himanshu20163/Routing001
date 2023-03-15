@@ -5,7 +5,7 @@ const Navbar = () => {
   return (
     <div className="main">
       <ul>
-        <img className="picturetopnavbar" src="./images/blackLogo-10fc2f582f155efcc2c792a97edc1f33.png" alt="picto"></img>
+        <img className="picturetopnavbar" src="images/blackLogo-10fc2f582f155efcc2c792a97edc1f33.png" alt="picto"></img>
         <Link to="/" style={{ textDecoration: 'none' }}>
           <li>Home</li>
         </Link>
