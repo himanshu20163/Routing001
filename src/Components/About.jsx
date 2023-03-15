@@ -4,7 +4,7 @@ const About = () => {
   return (
     <div>
       <div>
-        <img style={{width:"100%"}} src="./images/aboutusbanner.jpg" alt="banner" />
+        <img style={{width:"100%"}} src="images/aboutusbanner.jpg" alt="banner" />
       </div>
       <div style={{display:"flex",flexDirection:"column",justifyContent:"center"}}>
         <h1>About US</h1>
